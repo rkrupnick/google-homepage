@@ -53,8 +53,19 @@ nav li a {
 button {
   width: 150px; height: 30px;
   margin: 20px;
-  background-color: #dddddd;
-  color: #444444;
+  background-color: #ddd;
+  color: #444;
   border: 0px;
   font-size: 1em;
+}
+
+#footer {
+  background-color: #ddd;
+  color: #444;
+  padding: 10px 10px 0 10px;
+  margin: 20px -20px -25px -20px;
+}
+
+#footer ul li  {
+
 }
